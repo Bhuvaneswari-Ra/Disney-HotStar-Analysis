@@ -13,7 +13,7 @@
 ---
 
 ## Dashboard Preview
-![Hotstar Dashboard](./Dashboards.jpg)
+![Hotstar Dashboard](https://github.com/Bhuvaneswari-Ra/Disney-HotStar-Analysis/commit/b4c51ec2d36a0935e900f6f46c549838cdcba210)
 
 > [Watch Dashboard Walkthrough](YOUR_LOOM_LINK_HERE)
 
